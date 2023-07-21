@@ -1,0 +1,20 @@
+[
+    {
+        "index": 14,
+        "full_name": "THUDM\/ChatGLM2-6B",
+        "contributor": "Stanislas0",
+        "commit": 2
+    },
+    {
+        "index": 98,
+        "full_name": "a16z-infra\/ai-getting-started",
+        "contributor": "jenniferli23",
+        "commit": 3
+    },
+    {
+        "index": 75,
+        "full_name": "embedchain\/embedchain",
+        "contributor": "taranjeet",
+        "commit": 73
+    }
+]

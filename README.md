@@ -4,7 +4,6 @@
 * SQL: Extract a percentage from the main file and insert it into a SQL Server database.
 * CSV: Store the remaining portion of the file in a CSV file.
 
-
-
-
+| JSON          | SQL           |     CSV     |
+| ------------- | ------------- |-------------|
 
